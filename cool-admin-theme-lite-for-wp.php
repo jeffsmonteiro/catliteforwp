@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Cool Admin Theme Lite for WordPress
-* Plugin URI: https://jeffmonteiro.gitbook.io/catforwp/
+* Plugin URI: https://github.com/jeffsmonteiro/catliteforwp/
 * Description: Turn your WordPress Admin Interface more clean, friendly and actual using this Free and Open Source WordPress Admin Theme. To get a more fun interface, you can enable this theme to use emojis to replace dashicons! ;)
 * Version: 1.0.0
 * Author: Jeff Monteiro
