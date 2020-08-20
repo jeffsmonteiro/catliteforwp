@@ -1,7 +1,7 @@
 === Cool Admin Theme Lite for WordPress ===
 Contributors: Jeff Monteiro
-Tags: white label wordpress admin theme, admin theme, emoji wordpress admin theme
-Requires at least: 4.6
+Tags: cool admin theme for wordpress, wp admin theme, wordpress admin theme
+Requires at least: 4.7
 Tested up to: 5.3.2
 Stable tag: 1.0.0
 License: GPLv3
@@ -28,7 +28,7 @@ Cool Admin Theme Lite for WordPress is a super lightweight and clean interface f
 
 Finally, it is also possible to make the admin interface a little more fun by activating the emojify function, which replaces the icons in the side menu with emojis.
 
-FEATURES FREE VERSION
+FEATURES FREE VERSION (THIS)
 
 - New cool style for Admin Pages
 - Emojify Admin Menu with predefined emojis
@@ -48,10 +48,12 @@ FEATURES PRO VERSION
 - Replace or hide WordPress text on footer
 - Hide WordPress version disclaimer on footer
 
+- Check it out at https://wpadmintheme.com
+
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/catforwp` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/cool-admin-theme-lite-for-wp` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Use the Settings->Emojify Admin Theme screen to configure the plugin
 
