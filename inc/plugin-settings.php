@@ -63,22 +63,22 @@ function catforwp_settings_page() {
           'type'  => 'html',
           'desc'  => sprintf(esc_html__( '%1$s', 'catforwp' ),'
             <div class="bepro">
-              <h3>🚨 Get a White Label Admin with the Pro</h3>
+              <h3>🚨 '.esc_html__( 'Get a White Label Admin with the Pro', 'catforwp' ).'</h3>
               <ul>
-                <li>- Hide the WordPress brand in the navigation bar</li>
-                <li>- Use your own brand on the top bar</li>
-                <li>- Replace the WordPress brand with your own brand on the login page</li>
-                <li>- Change the brand link on the login page to your homepage</li>
-                <li>- Change the background color of the login page</li>
-                <li>- Replace the WordPress brand with your brand in the edit block (Gutenberg)</li>
-                <li>- Add a custom favicon to the Admin Area</li>
-                <li>- Choose emojis for all sidebar menus using a picker</li>
-                <li>- Hide or replace WordPress text at the bottom of the Admin Area</li>
-                <li>- Hide the WordPress version text at the bottom of the Admin Area</li>
-                <li>- Remove non functional widgets from dashboard</li>
-                <li><strong>- And more ... </strong></li>
+                <li>'.esc_html__( '- Hide the WordPress brand in the navigation bar', 'catforwp' ).'</li>
+                <li>'.esc_html__('- Use your own brand on the top bar','catforwp').'</li>
+                <li>'.esc_html__('- Replace the WordPress brand with your own brand on the login page','catforwp').'</li>
+                <li>'.esc_html__('- Change the brand link on the login page to your homepage','catforwp').'</li>
+                <li>'.esc_html__('- Change the background color of the login page','catforwp').'</li>
+                <li>'.esc_html__('- Replace the WordPress brand with your brand in the edit block (Gutenberg)','catforwp').'</li>
+                <li>'.esc_html__('- Add a custom favicon to the Admin Area','catforwp').'</li>
+                <li>'.esc_html__('- Choose emojis for all sidebar menus using a picker','catforwp').'</li>
+                <li>'.esc_html__('- Hide or replace WordPress text at the bottom of the Admin Area','catforwp').'</li>
+                <li>'.esc_html__('- Hide the WordPress version text at the bottom of the Admin Area','catforwp').'</li>
+                <li>'.esc_html__('- Remove non functional widgets from dashboard','catforwp').'</li>
+                <li><strong>'.esc_html__('- And more ...','catforwp').' </strong></li>
               </ul>
-              <h3>👉 Check it out at <a href="https://wpadmintheme.com" target="_blank">wpadmintheme.com</a></h3>
+              <h3>👉 '.esc_html__('Check it out at ','catforwp').'<a href="https://wpadmintheme.com" target="_blank">'.esc_html__('wpadmintheme.com','catforwp').'</a></h3>
             </div>
           ')
         ),
@@ -122,7 +122,7 @@ function catforwp_settings_page() {
         array(
           'id'    => 'question_7',
           'label' => esc_html__( "Have a bug?", "catforwp" ),
-          'desc'  => sprintf( esc_html__( 'Open an issue on %1$s', 'catforwp' ), '<a href="https://github.com/jeffsmonteiro/emojify-white-label-admin-theme/issues/" target="_blank">Git Hub Repository</a>'),
+          'desc'  => sprintf( esc_html__( 'Open an issue on %1$s', 'catforwp' ), '<a href="https://github.com/jeffsmonteiro/emojify-white-label-admin-theme/issues/" target="_blank">'.esc_html__('Git Hub Repository', 'catforwp').'</a>'),
           'type'  => 'html'
         ),
       )
