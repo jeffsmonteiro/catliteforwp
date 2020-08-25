@@ -11,6 +11,7 @@ Finally, it is also possible to make the admin interface a little more fun by ac
 - New cool style for Admin Pages
 - Emojify Admin Menu with predefined emojis (optional)
 - Enqueue your custom CSS to add more emojis or whatever
+- Translation Ready
 
 
 ### How to Install

@@ -33,6 +33,7 @@ FEATURES FREE VERSION (THIS)
 - New cool style for Admin Pages
 - Emojify Admin Menu with predefined emojis
 - Enqueue your custom CSS to add more emojis or whatever
+- Translation Ready
 
 FEATURES PRO VERSION
 
