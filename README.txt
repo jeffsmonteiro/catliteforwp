@@ -1,4 +1,4 @@
-=== Cool Admin Theme Lite for WordPress ===
+=== Cool Admin Theme Lite for WP ===
 Contributors: catforwp
 Tags: cool admin theme for wordpress, wp admin theme, wordpress admin theme
 Requires at least: 4.7
@@ -7,11 +7,11 @@ Stable tag: 1.0.0
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Use the Cool Admin Theme Lite for WordPress to make your administration area cleaner, more current and cool, ofcourse.
+Use the Cool Admin Theme Lite for WP to make your administration area cleaner, more fresh and cool, ofcourse.
 
 == Description ==
 
-Cool Admin Theme Lite for WordPress is a super lightweight and clean interface for your WordPress Admin Pages. With a clean design proposal, this plugin tries to modernize the wordpress admin interface in addition to allowing you to use your own brand, both within admin and login pages.
+Cool Admin Theme Lite for WP is a super lightweight and clean interface for your WordPress Admin Pages. With a clean design proposal, this plugin tries to modernize the wordpress admin interface in addition to allowing you to use your own brand, both within admin and login pages.
 
 Finally, it is also possible to make the admin interface a little more fun by activating the emojify function, which replaces the icons in the side menu with emojis.
 

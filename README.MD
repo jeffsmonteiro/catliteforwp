@@ -1,6 +1,6 @@
-# Cool Admin Theme For WordPress
+# Cool Admin Theme Lite For WP
 
-Cool Admin Theme Lite for WordPress is a super lightweight and clean interface for your WordPress Admin Pages. With a clean design proposal, this plugin tries to modernize the wordpress admin interface in addition to allowing you to use your own brand, both within admin and login pages.
+Cool Admin Theme Lite for WP is a super lightweight and clean interface for your WordPress Admin Pages. With a clean design proposal, this plugin tries to modernize the wordpress admin interface in addition to allowing you to use your own brand, both within admin and login pages.
 
 Finally, it is also possible to make the admin interface a little more fun by activating the emojify function, which replaces the icons in the side menu with emojis.
 
