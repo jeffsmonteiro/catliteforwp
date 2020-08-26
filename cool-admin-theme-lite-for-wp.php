@@ -6,8 +6,8 @@
 * Version: 1.0.0
 * Author: Jeff Monteiro
 * Author URI: https://www.linkedin.com/in/jeff-monteiro 
-* License: GPL-3.0-or-later
-* License URI: https://www.gnu.org/licenses/gpl-3.0.html
+* License: GPL-2.0-or-later
+* License URI: https://www.gnu.org/licenses/gpl-2.0.html
 * Text Domain: catforwp
 * Domain Path: /languages
 *
@@ -18,7 +18,7 @@
 /*
 	Cool Admin Theme for WordPress is free software: you can redistribute 
 	it and/or modify it under the terms of the GNU General Public License 
-	as published by the Free Software Foundation, either version 3 of the 
+	as published by the Free Software Foundation, either version 2 of the 
 	License, or any later version.
 	
 	Cool Admin Theme for WordPress is distributed in the hope that it will 
@@ -28,7 +28,7 @@
 	
 	You should have received a copy of the GNU General Public License
 	along with Cool Admin Theme for WordPress. If not, see 
-	https://www.gnu.org/licenses/gpl-3.0.html.
+	https://www.gnu.org/licenses/gpl-2.0.html.
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
