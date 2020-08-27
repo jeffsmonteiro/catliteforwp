@@ -1,0 +1,248 @@
+# Copyright (C) 2020 Jeff Monteiro
+# This file is distributed under the same license as the Cool Admin Theme Lite for WordPress plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cool Admin Theme Lite for WordPress 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cool-admin-theme-"
+"lite-for-wp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-25T16:51:57-03:00\n"
+"PO-Revision-Date: 2020-08-25 17:28-0300\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Domain: catforwp\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+#. Plugin Name of the plugin
+msgid "Cool Admin Theme Lite for WordPress"
+msgstr "Cool Admin Theme Lite for WordPress"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/jeffsmonteiro/catliteforwp/"
+msgstr "https://github.com/jeffsmonteiro/catliteforwp/"
+
+#. Description of the plugin
+msgid ""
+"Turn your WordPress Admin Interface more clean, friendly and actual using "
+"this Free and Open Source WordPress Admin Theme. To get a more fun "
+"interface, you can enable this theme to use emojis to replace dashicons! ;)"
+msgstr ""
+"Deixe a interface do seu Admin no WordPress mais leve, amigável e atual "
+"usando esse Tema Grátis e de Código Aberto. Para tornar a interface ainda "
+"mais divertida, você pode ativar este tema para usar emojis no lugar os "
+"ícones padrões! ;)"
+
+#. Author of the plugin
+msgid "Jeff Monteiro"
+msgstr "Jeff Monteiro"
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/jeff-monteiro"
+msgstr "https://www.linkedin.com/in/jeff-monteiro"
+
+#: inc/plugin-settings.php:16 inc/plugin-settings.php:17
+msgid "Cool Admin Theme Lite"
+msgstr "Cool Admin Theme Lite"
+
+#: inc/plugin-settings.php:30
+msgid "Emojify Settings"
+msgstr "Configurações de Emoji"
+
+#: inc/plugin-settings.php:31
+msgid ""
+"Thanks for using this plugin! Currently, Emojify offers 60 pre-configured "
+"emojis for the most popular plugins of WP.org repository. So, the major part "
+"of plugins will not display an icon on admin menu after activation. In this "
+"case, is recommended that you create a custom css to add this emoji. Over "
+"time, new emojis will be added by default."
+msgstr ""
+"Obrigado por usar este plugin! Atualmente a funcionalidade Emojify oferece "
+"60 emojis pre-configurados para os plugins mais populares do repositório WP."
+"org. Então a maior parte dos plugins não deverão mostrar emojis na barra de "
+"menu após a ativação do Emojify. Nesse caso, é recomendado que você adicione "
+"os emojis através do campo CSS Customizado. Com o passar do tempo, novos "
+"emojis serão adicionados por padrão."
+
+#: inc/plugin-settings.php:35
+msgid "Help"
+msgstr "Ajuda"
+
+#: inc/plugin-settings.php:46
+msgid "Emojify Menu"
+msgstr "Menu Emojify"
+
+#: inc/plugin-settings.php:47
+msgid "Check if you want to replace icons of the admin menu by emojis 😁"
+msgstr ""
+"Marque essa opção para substituir os ícones padrões na barra lateral por "
+"emojis 😁"
+
+#: inc/plugin-settings.php:52
+msgid "Custom CSS"
+msgstr "CSS Customizado"
+
+#: inc/plugin-settings.php:53
+msgid "Add new emojis using custom CSS code."
+msgstr "Adicione novos emojis usando CSS Customizado."
+
+#: inc/plugin-settings.php:62
+msgid "Be a PRO!"
+msgstr "Seja PRO!"
+
+#: inc/plugin-settings.php:64
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/plugin-settings.php:66
+msgid "Get a White Label Admin with the Pro"
+msgstr "Adicione a sua marca no Admin usando a versão PRO"
+
+#: inc/plugin-settings.php:68
+msgid "- Hide the WordPress brand in the navigation bar"
+msgstr "- Esconde a marca WordPress na barra de navegação"
+
+#: inc/plugin-settings.php:69
+msgid "- Use your own brand on the top bar"
+msgstr "- Use a sua marca na barra superior"
+
+#: inc/plugin-settings.php:70
+msgid "- Replace the WordPress brand with your own brand on the login page"
+msgstr "- Subsititua a marca WordPress pela sua na página de login"
+
+#: inc/plugin-settings.php:71
+msgid "- Change the brand link on the login page to your homepage"
+msgstr "- Substitua o link na marca da página de login para a sua homepage"
+
+#: inc/plugin-settings.php:72
+msgid "- Change the background color of the login page"
+msgstr "- Altere a cor de fundo da página de login"
+
+#: inc/plugin-settings.php:73
+msgid ""
+"- Replace the WordPress brand with your brand in the edit block (Gutenberg)"
+msgstr "- Substitua a marca WordPress pela sua no bloco de edição Gutenberg"
+
+#: inc/plugin-settings.php:74
+msgid "- Add a custom favicon to the Admin Area"
+msgstr "- Adicione um favicon personalizado no Admin"
+
+#: inc/plugin-settings.php:75
+msgid "- Choose emojis for all sidebar menus using a picker"
+msgstr ""
+"- Escolha emojis para todos os menus da barra lateral utilizando um botão de "
+"seleção"
+
+#: inc/plugin-settings.php:76
+msgid "- Hide or replace WordPress text at the bottom of the Admin Area"
+msgstr "- Esconda ou substitua o texto do WordPress no rodapé do Admin"
+
+#: inc/plugin-settings.php:77
+msgid "- Hide the WordPress version text at the bottom of the Admin Area"
+msgstr "- Esconda o texto de versão do WordPress no rodapé do Admin"
+
+#: inc/plugin-settings.php:78
+msgid "- Remove non functional widgets from dashboard"
+msgstr "- Remova widgets não funcionais do Dashboard"
+
+#: inc/plugin-settings.php:79
+msgid "- And more ..."
+msgstr "- E mais ..."
+
+#: inc/plugin-settings.php:81
+msgid "Check it out at "
+msgstr "Veja os detalhes em "
+
+#: inc/plugin-settings.php:81
+msgid "wpadmintheme.com"
+msgstr "wpadmintheme.com"
+
+#: inc/plugin-settings.php:94
+msgid "Emojify not working"
+msgstr "O Emojify não funciona"
+
+#: inc/plugin-settings.php:95
+msgid ""
+"To enable emojify you need to check the option on Emojify Settings tab. If "
+"Emojify is already enabled, can be your OS don't have emoji characteres "
+"installed."
+msgstr ""
+"Para ativar o emojify você precisa marcar a opção na aba Configurações de "
+"Emoij. Se o Emojify já estiver ativado, pode ser que o sistema operacional "
+"do seu computador não tenha emojis instalados."
+
+#: inc/plugin-settings.php:100
+msgid "Where do I customize emojis?"
+msgstr "Onde eu customizo os emojis?"
+
+#: inc/plugin-settings.php:101
+msgid ""
+"On free version you have a default set of emojis, but only for 60 items (the "
+"most popular). If you want to customize these items or add new items (when "
+"you get new plugins not coverted by our default sytlesheet), you can use the "
+"Custom CSS field to do it."
+msgstr ""
+"Nessa versão grátis do plugin, você tem uma seleção de emojis padrões, mas "
+"apenas para 60 itens (os mais populares). Se você quer customizar esses "
+"itens ou adicionar novos (pode acontecer quando você instala novos plugins "
+"não cobertos pela folha de estilo padrão), você pode usar o campo CSS "
+"Customizado para fazer isso."
+
+#: inc/plugin-settings.php:106
+msgid "Can I use custom icons and emojis?"
+msgstr "Posso usar ícones customizados e emojis?"
+
+#: inc/plugin-settings.php:107
+msgid ""
+"Maybe. After activation of the Emojify feature, all icons are replaced by "
+"emojis. May you can use the Custom CSS field to make changes. If you know a "
+"little bit of CSS you will do it."
+msgstr ""
+"Talvez. Após a ativação do Emojify, todos os ícones são substituídos por "
+"emoijs. Ainda assim, você pode utilizar o campo de CSS Customizado para "
+"fazer alterações. Se você souber um pouquinho de CSS você vai conseguir."
+
+#: inc/plugin-settings.php:112
+msgid "Emojis that I set in the Custom CSS are not displayed"
+msgstr "Emojis que eu configurei no campo CSS Customizado não aparecem"
+
+#: inc/plugin-settings.php:113
+msgid ""
+"Try to clear browser cache and refresh the page. If you are using some cache "
+"plugin like Total Cache, try to refresh the cache."
+msgstr ""
+"Tente limpar o cache do seu navegador e atualizar a página. Se você estiver "
+"usando algum plugin de cache como o Total Cache, tente atualizar o cache."
+
+#: inc/plugin-settings.php:118
+msgid "Some emojis don't appear in the menu"
+msgstr "Alguns emojis não aparecem no menu"
+
+#: inc/plugin-settings.php:119
+msgid ""
+"Our plugin cover the 60 most populars in WordPress Plugin Repository, maybe "
+"the plugin that you are using are not covered. So, try to add the emoji "
+"using the Custom CSS field."
+msgstr ""
+"Nosso plugin cobre os 60 plugins mais populares do repositório de plugins do "
+"WordPress. Talvez o plutin que você está usando não esteja coberto. Tente "
+"adicionar o emoji utilizando o campo de CSS Customizado."
+
+#: inc/plugin-settings.php:124
+msgid "Have a bug?"
+msgstr "Encontrou um bug?"
+
+#: inc/plugin-settings.php:125
+msgid "Open an issue on %1$s"
+msgstr "Abra uma notificação no %1$s"
+
+#: inc/plugin-settings.php:125
+msgid "Git Hub Repository"
+msgstr "Repositório do GitHub"
+
+#: inc/plugin-settings.php:136
+msgid "Settings"
+msgstr "Configurações"
